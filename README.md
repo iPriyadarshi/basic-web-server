@@ -106,15 +106,3 @@ This project helps you understand:
 Licensed under the [MIT License](LICENSE).
 
 ---
-
-## 👤 Author
-
-**Priyadarshi Kumar**
-
-[GitHub](https://github.com/iPriyadarshi)
-
----
-
-## 📢 Contact
-
-Have questions? Raise an issue or contact me via [GitHub Discussions](https://github.com/iPriyadarshi/basic-web-server/discussions).
